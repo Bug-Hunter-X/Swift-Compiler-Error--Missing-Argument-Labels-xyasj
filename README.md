@@ -1,0 +1,1 @@
+This example demonstrates a common Swift error related to missing argument labels. When a function has named parameters, you must include these labels when calling the function, unless you use external parameter names. The solution shows how to correct the code by including the missing label 'height:'.
